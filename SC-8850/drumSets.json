@@ -1,0 +1,536 @@
+[
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 0,
+    "name": "STANDARD"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 8,
+    "name": "ROOM"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 16,
+    "name": "POWER"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 24,
+    "name": "ELECTRONIC"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 25,
+    "name": "TR-808"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 32,
+    "name": "JAZZ"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 40,
+    "name": "BRUSH"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 48,
+    "name": "ORCHESTRA"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 56,
+    "name": "SFX"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 1,
+    "programChangeNumber": 127,
+    "name": "CM-64/32L"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 0,
+    "name": "STANDARD 1"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 1,
+    "name": "STANDARD 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 8,
+    "name": "ROOM"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 16,
+    "name": "POWER"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 24,
+    "name": "ELECTRONIC"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 25,
+    "name": "TR-808/909"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 26,
+    "name": "DANCE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 32,
+    "name": "JAZZ"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 40,
+    "name": "BRUSH"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 48,
+    "name": "ORCHESTRA"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 49,
+    "name": "ETHNIC"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 50,
+    "name": "KICK & SNARE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 56,
+    "name": "SFX"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 57,
+    "name": "RHYTHM FX"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 2,
+    "programChangeNumber": 127,
+    "name": "CM-64/32L"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 0,
+    "name": "STANDARD 1"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 1,
+    "name": "STANDARD 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 2,
+    "name": "STANDARD 3"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 8,
+    "name": "ROOM"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 9,
+    "name": "HIPHOP"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 10,
+    "name": "JUNGLE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 11,
+    "name": "TECHNO"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 16,
+    "name": "POWER"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 24,
+    "name": "ELECTRONIC"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 25,
+    "name": "TR-808"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 26,
+    "name": "DANCE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 27,
+    "name": "CR-78"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 28,
+    "name": "TR-606"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 29,
+    "name": "TR-707"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 30,
+    "name": "TR-909"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 32,
+    "name": "JAZZ"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 40,
+    "name": "BRUSH"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 48,
+    "name": "ORCHESTRA"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 49,
+    "name": "ETHNIC"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 50,
+    "name": "KICK & SNARE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 52,
+    "name": "ASIA"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 53,
+    "name": "CYMBAL&CLAPS"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 56,
+    "name": "SFX"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 57,
+    "name": "RHYTHM FX"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 58,
+    "name": "RHYTHM FX 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 3,
+    "programChangeNumber": 127,
+    "name": "CM-64/32L"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 0,
+    "name": "STANDARD 1"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 1,
+    "name": "STANDARD 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 2,
+    "name": "STANDARD L/R"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 8,
+    "name": "ROOM"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 9,
+    "name": "HIPHOP"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 10,
+    "name": "JUNGLE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 11,
+    "name": "TECHNO"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 12,
+    "name": "ROOM L/R"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 13,
+    "name": "HOUSE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 16,
+    "name": "POWER"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 24,
+    "name": "ELECTRONIC"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 25,
+    "name": "TR-808"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 26,
+    "name": "DANCE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 27,
+    "name": "CR-78"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 28,
+    "name": "TR-606"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 29,
+    "name": "TR-707"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 30,
+    "name": "TR-909"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 32,
+    "name": "JAZZ"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 33,
+    "name": "JAZZ L/R"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 40,
+    "name": "BRUSH"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 41,
+    "name": "BRUSH 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 42,
+    "name": "BRUSH 2 L/R"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 48,
+    "name": "ORCHESTRA"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 49,
+    "name": "ETHNIC"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 50,
+    "name": "KICK & SNARE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 51,
+    "name": "KICK& SNARE2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 52,
+    "name": "ASIA"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 53,
+    "name": "CYMBAL&CLAPS"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 54,
+    "name": "GAMELAN 1"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 55,
+    "name": "GAMELAN 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 56,
+    "name": "SFX"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 57,
+    "name": "RHYTHM FX"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 58,
+    "name": "RHYTHM FX 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 59,
+    "name": "RHYTHM FX 3"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 60,
+    "name": "SFX 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 61,
+    "name": "VOICE"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 62,
+    "name": "CYM&CLAPS 2"
+  },
+  {
+    "bankSelectMSB": 0,
+    "bankSelectLSB": 4,
+    "programChangeNumber": 127,
+    "name": "CM-64/32L"
+  }
+]

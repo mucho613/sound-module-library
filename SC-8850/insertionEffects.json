@@ -1,0 +1,327 @@
+[
+  {
+    "MSB": 0,
+    "LSB": 0,
+    "name": "00 Thru"
+  },
+  {
+    "MSB": 1,
+    "LSB": 0,
+    "name": "01 Stereo-EQ"
+  },
+  {
+    "MSB": 1,
+    "LSB": 1,
+    "name": "02 Spectrum"
+  },
+  {
+    "MSB": 1,
+    "LSB": 2,
+    "name": "03 Enhancer"
+  },
+  {
+    "MSB": 1,
+    "LSB": 3,
+    "name": "04 Humanizer"
+  },
+  {
+    "MSB": 1,
+    "LSB": 16,
+    "name": "05 Overdrive"
+  },
+  {
+    "MSB": 1,
+    "LSB": 17,
+    "name": "06 Distortion"
+  },
+  {
+    "MSB": 1,
+    "LSB": 32,
+    "name": "07 Phaser"
+  },
+  {
+    "MSB": 1,
+    "LSB": 33,
+    "name": "08 Auto Wah"
+  },
+  {
+    "MSB": 1,
+    "LSB": 34,
+    "name": "09 Rotary"
+  },
+  {
+    "MSB": 1,
+    "LSB": 35,
+    "name": "10 StereoFlanger"
+  },
+  {
+    "MSB": 1,
+    "LSB": 36,
+    "name": "11 Step Flanger"
+  },
+  {
+    "MSB": 1,
+    "LSB": 37,
+    "name": "12 Tremolo"
+  },
+  {
+    "MSB": 1,
+    "LSB": 38,
+    "name": "13 Auto Pan"
+  },
+  {
+    "MSB": 1,
+    "LSB": 48,
+    "name": "14 Compressor"
+  },
+  {
+    "MSB": 1,
+    "LSB": 49,
+    "name": "15 Limiter"
+  },
+  {
+    "MSB": 1,
+    "LSB": 64,
+    "name": "16 Hexa Chorus"
+  },
+  {
+    "MSB": 1,
+    "LSB": 65,
+    "name": "17 TremoloChorus"
+  },
+  {
+    "MSB": 1,
+    "LSB": 66,
+    "name": "18 Stereo Chorus"
+  },
+  {
+    "MSB": 1,
+    "LSB": 67,
+    "name": "19 Space D"
+  },
+  {
+    "MSB": 1,
+    "LSB": 68,
+    "name": "20 3D Chorus"
+  },
+  {
+    "MSB": 1,
+    "LSB": 80,
+    "name": "21 Stereo Delay"
+  },
+  {
+    "MSB": 1,
+    "LSB": 81,
+    "name": "22 Mod Delay"
+  },
+  {
+    "MSB": 1,
+    "LSB": 82,
+    "name": "23 3 Tap Delay"
+  },
+  {
+    "MSB": 1,
+    "LSB": 83,
+    "name": "24 4 Tap Delay"
+  },
+  {
+    "MSB": 1,
+    "LSB": 84,
+    "name": "25 Tm Ctrl Delay"
+  },
+  {
+    "MSB": 1,
+    "LSB": 85,
+    "name": "26 Reverb"
+  },
+  {
+    "MSB": 1,
+    "LSB": 86,
+    "name": "27 Gate Reverb"
+  },
+  {
+    "MSB": 1,
+    "LSB": 87,
+    "name": "28 3D Delay"
+  },
+  {
+    "MSB": 1,
+    "LSB": 96,
+    "name": "29 2PitchShifter"
+  },
+  {
+    "MSB": 1,
+    "LSB": 97,
+    "name": "30 Fb P.Shifter"
+  },
+  {
+    "MSB": 1,
+    "LSB": 112,
+    "name": "31 3D Auto"
+  },
+  {
+    "MSB": 1,
+    "LSB": 113,
+    "name": "32 3D Manual"
+  },
+  {
+    "MSB": 1,
+    "LSB": 114,
+    "name": "33 Lo-Fi 1"
+  },
+  {
+    "MSB": 1,
+    "LSB": 115,
+    "name": "34 Lo-Fi 2"
+  },
+  {
+    "MSB": 2,
+    "LSB": 0,
+    "name": "35 OD -> Chorus"
+  },
+  {
+    "MSB": 2,
+    "LSB": 1,
+    "name": "36 OD -> Flanger"
+  },
+  {
+    "MSB": 2,
+    "LSB": 2,
+    "name": "37 OD -> Delay"
+  },
+  {
+    "MSB": 2,
+    "LSB": 3,
+    "name": "38 DS -> Chorus"
+  },
+  {
+    "MSB": 2,
+    "LSB": 4,
+    "name": "39 DS -> Flanger"
+  },
+  {
+    "MSB": 2,
+    "LSB": 5,
+    "name": "40 DS -> Delay"
+  },
+  {
+    "MSB": 2,
+    "LSB": 6,
+    "name": "41 EH -> Chorus"
+  },
+  {
+    "MSB": 2,
+    "LSB": 7,
+    "name": "42 EH -> Flanger"
+  },
+  {
+    "MSB": 2,
+    "LSB": 8,
+    "name": "43 EH -> Delay"
+  },
+  {
+    "MSB": 2,
+    "LSB": 9,
+    "name": "44 Cho -> Delay"
+  },
+  {
+    "MSB": 2,
+    "LSB": 10,
+    "name": "45 FL -> Delay"
+  },
+  {
+    "MSB": 2,
+    "LSB": 11,
+    "name": "46 Cho-> Flanger"
+  },
+  {
+    "MSB": 3,
+    "LSB": 0,
+    "name": "47 Rotary Multi"
+  },
+  {
+    "MSB": 4,
+    "LSB": 0,
+    "name": "48 GTR Multi 1"
+  },
+  {
+    "MSB": 4,
+    "LSB": 1,
+    "name": "49 GTR Multi 2"
+  },
+  {
+    "MSB": 4,
+    "LSB": 2,
+    "name": "50 GTR Multi 3"
+  },
+  {
+    "MSB": 4,
+    "LSB": 3,
+    "name": "51 CleanGtMulti1"
+  },
+  {
+    "MSB": 4,
+    "LSB": 4,
+    "name": "52 CleanGtMulti2"
+  },
+  {
+    "MSB": 4,
+    "LSB": 5,
+    "name": "53 Bass Multi"
+  },
+  {
+    "MSB": 4,
+    "LSB": 6,
+    "name": "54 Rhodes Multi"
+  },
+  {
+    "MSB": 5,
+    "LSB": 0,
+    "name": "55 KeyboardMulti"
+  },
+  {
+    "MSB": 17,
+    "LSB": 0,
+    "name": "56 Cho / Delay"
+  },
+  {
+    "MSB": 17,
+    "LSB": 1,
+    "name": "57 FL / Delay"
+  },
+  {
+    "MSB": 17,
+    "LSB": 2,
+    "name": "58 Cho / Flanger"
+  },
+  {
+    "MSB": 17,
+    "LSB": 3,
+    "name": "59 OD1 / OD2"
+  },
+  {
+    "MSB": 17,
+    "LSB": 4,
+    "name": "60 OD / Rotary"
+  },
+  {
+    "MSB": 17,
+    "LSB": 5,
+    "name": "61 OD / Phaser"
+  },
+  {
+    "MSB": 17,
+    "LSB": 6,
+    "name": "62 OD / AutoWah"
+  },
+  {
+    "MSB": 17,
+    "LSB": 7,
+    "name": "63 PH / Rotary"
+  },
+  {
+    "MSB": 17,
+    "LSB": 8,
+    "name": "64 PH / AutoWah"
+  }
+]
